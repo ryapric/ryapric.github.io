@@ -1,19 +1,17 @@
 ---
 layout: page
-title: About
+title: About Ryan
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your
-Jekyll theme, as well as basic Jekyll usage documentation at
-[jekyllrb.com](https://jekyllrb.com/)
+Ryan Price is a software developer, 'DevOps engineer', 'data scientist', and
+several other buzzwords that he hates to associate with. He currently works at
+Slalom Consulting in St. Louis, MO, USA.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+His formal education is in economics, finance, and statistics (econometrics, and
+theoretical), which formed the often-ironic basis of his current career in
+software. He loves all things automation, and usually falls asleep reading
+documentation on tools that facilitate that.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-[jekyll-organization]: https://github.com/jekyll
+He is very fond of video games. He lives in a St. Louis suburb with his fiancee
+Sabrina, dog William, cat Tibble, and cockatiel Peach.
