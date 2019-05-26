@@ -5,7 +5,7 @@ date:   2019-05-25 23:58:00 -0500
 categories: jekyll update
 ---
 
-***! Warning: disorganized wall of text braindump incoming !***
+***! WARNING: disorganized wall of text braindump incoming !***
 
 I love [R](https://www.r-project.org/). If you don't know, R is a language and
 software for statistical computation & graphics. Coming hot out of graduate
@@ -227,5 +227,5 @@ relative merits of Microsoft buying GitHub. And lately, I've gotten to *share*
 all this knowledge with others who are willing to listen, by way of Meetup
 groups, conferences, and workshops.
 
-I've become a lifelong student of the craft of software, and I couldn;t be
+I've become a lifelong student of the craft of software, and I couldn't be
 happier.
