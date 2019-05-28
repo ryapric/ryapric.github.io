@@ -2,7 +2,7 @@
 layout: post
 title:  "Moving From 'Data Science' to Software Development"
 date:   2019-05-25 23:58:00 -0500
-categories: jekyll update
+tags: r
 ---
 
 ***! WARNING: disorganized wall of text braindump incoming !***
@@ -227,5 +227,4 @@ relative merits of Microsoft buying GitHub. And lately, I've gotten to *share*
 all this knowledge with others who are willing to listen, by way of Meetup
 groups, conferences, and workshops.
 
-I've become a lifelong student of the craft of software, and I couldn't be
-happier.
+I've become a lifelong student of the craft of software. And that's pretty neat.
